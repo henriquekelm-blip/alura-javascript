@@ -3,9 +3,9 @@ function saudacao(nome) {
 }
 
 saudacao('Henrique') // Henrique é o "argumento" 
-saudacao('Henderson')
-saudacao('Marcia')
-saudacao('Edenildo')
+saudacao('João')
+saudacao('Jéssica')
+saudacao('Bianca')
 
 function calcularDobroDeUm(numero) {
     return numero * 2
@@ -13,4 +13,5 @@ function calcularDobroDeUm(numero) {
 
 const numeroDobrado = calcularDobroDeUm(4)
 console.log('O dobro de 4 é:', numeroDobrado)
+
 
